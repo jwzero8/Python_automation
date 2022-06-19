@@ -1,0 +1,39 @@
+1651810534651	geckodriver	INFO	Listening on 127.0.0.1:6731
+1651810537729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6732" "-no-remote" "-profile" "C:\\Users\\ZGMF-X~1\\AppData\\Local\\Temp\\rust_mozprofile8hpQUE"
+1651810537958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ZGMF-X~1\\AppData\\Local\\Temp\\rust_mozprofile8hpQUE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6732/devtools/browser/4cc97e70-79e9-49fd-a3b7-fab75269f0c2
+1651810538969	Marionette	INFO	Listening on port 6737
+1651810539280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1651811385832	Marionette	INFO	Stopped listening on port 6737
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+the file at C:\\Users\\ZGMF-X~1\\AppData\\Local\\Temp\\rust_mozprofileBiRQoC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4038/devtools/browser/d765ca29-9161-479f-a927-7ad81f12dd05
+1651811005981	Marionette	INFO	Listening on port 4045
+1651811006268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1651811014499	Marionette	INFO	Stopped listening on port 4045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651811159333	geckodriver	INFO	Listening on 127.0.0.1:10945
+1651811162384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10946" "-no-remote" "-profile" "C:\\Users\\ZGMF-X~1\\AppData\\Local\\Temp\\rust_mozprofileFKHjtb"
+1651811162599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ZGMF-X~1\\AppData\\Local\\Temp\\rust_mozprofileFKHjtb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10946/devtools/browser/e0ded27c-e159-4357-9911-5c7df67d287e
+1651811163567	Marionette	INFO	Listening on port 10951
+1651811163910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1651811203795	Marionette	INFO	Stopped listening on port 10951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
